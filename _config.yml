@@ -43,8 +43,6 @@ JB :
   #
   BASE_PATH : ""
 
-  HOME_PATH : "/"
-
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
